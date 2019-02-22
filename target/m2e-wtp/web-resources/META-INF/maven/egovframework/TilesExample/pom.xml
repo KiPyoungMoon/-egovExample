@@ -16,7 +16,7 @@
         </license>
     </licenses>
     
-	<properties>
+	<properties> <!-- pom.xml에서 설정(상수)값들을 지정하는 부분, ${...}으로 표기해 사용할 수 있다. -->
 	    <spring.maven.artifact.version>4.2.4.RELEASE</spring.maven.artifact.version>
 		<egovframework.rte.version>3.7.0</egovframework.rte.version>
 		<org.apache.tiles-version>3.0.7</org.apache.tiles-version>
@@ -173,7 +173,8 @@
             <version>5.1.31</version>
         </dependency> -->
 
-        <!-- <dependency> // 에러나서 주석 처리. ojdbc는 jre/lib/ext에 직접 복사해준다.
+		<!-- ojdbc는 라이센스 문제로 직접 설치해줘야 한다. -->
+        <!-- <dependency> 
             <groupId>ojdbc</groupId>
             <artifactId>ojdbc</artifactId>
             <version>14</version>

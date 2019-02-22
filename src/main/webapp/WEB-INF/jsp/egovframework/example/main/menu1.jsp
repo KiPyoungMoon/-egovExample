@@ -31,6 +31,7 @@
 			</table>
 			<script>
 				$(document).ready(() => {
+					
 					$('#exampleTable').dataTable(
 						{
 							pageLength : 10,

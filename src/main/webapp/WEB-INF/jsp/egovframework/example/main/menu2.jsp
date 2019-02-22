@@ -40,9 +40,9 @@
 				    time: {
 				        useUTC: false
 				    },
-
+				    
 				    title: {
-				        text: 'Live random data'
+				        text: 'egov high chart test'
 				    },
 				    xAxis: {
 				        type: 'datetime',
