@@ -14,7 +14,7 @@
 	<div class="container" style='border: 1px solid pink'>
 		<div class="jumbotron" style='border: 1px solid green'>
 			<h4>Tiles With dataTables 영역</h4>
-			<h5>Datatables를 적용해 보자</h5>
+			<h5>Oracle과 연동해 Datatables를 적용해 보자</h5>
 		</div>
 		<div class="jumbotron" style='border: 1px solid green'>
 			<table id="exampleTable" class="table table-striped table-bordered table-hover">

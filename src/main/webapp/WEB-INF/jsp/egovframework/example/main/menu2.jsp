@@ -12,7 +12,7 @@
 <body style='border: 1px solid gray; background-color: black'>
 	<div class="container" style='border: 1px solid pink'>
 		<div class="jumbotron" style='border: 1px solid green'>
-			<h4>Tiles 적용 된 Menu2 영역</h4>
+			<h4>Tiles 적용 된 HighChart 영역</h4>
 		</div>
 		<div class="jumbotron" style='border: 1px solid green'>
 			<div id="charts" style="min-width: 310px; height: 400px; margin: 0 auto"></div>
